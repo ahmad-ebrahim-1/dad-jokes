@@ -31,6 +31,7 @@
     -moz-transform: translateY(3px);
     -ms-transform: translateY(3px);
     -o-transform: translateY(3px);
+    box-shadow: 0 0 10px #fccb4f;
   }
 }
 .circle:nth-child(1) {
